@@ -24,3 +24,9 @@
 
 * Não foi utilizado BDD para criação do teste de API, pois particularmente eu não vejo agregar valor ao uso de API com BDD.
 * Foram validados os response.code e o responde.message.
+
+## Para execução
+
+* Bundle install
+* cucumber feature/featurename - Para os testes em BDD
+* rspec API.rb - para o teste de API
